@@ -1,0 +1,5 @@
+{
+    "xmlsP": "./data/annotations/",
+    "imagesP": "./data/slides/",
+    "masksP": "./data/masks/"
+}
